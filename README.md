@@ -1,3 +1,3 @@
 # birthday-gift
 
-### Open the site from [here](https://simba-birthday.netlify.app/)
+### Live site is [here](https://simba-birthday.netlify.app/)
